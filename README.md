@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my Github repository aka my personalised learning hub! Here you will find various repositories pertaining to Data Analytics, Machine learning as learning exercises.
+
+## Tech Stack
+
+https://stackshare.io/elnajkattoor/my-stack
