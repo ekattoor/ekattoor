@@ -19,4 +19,4 @@ Welcome to my Github repository aka my personalised learning hub! Here you will 
 
 ## Tech Stack
 
-https://stackshare.io/elnajkattoor/my-stack
+
