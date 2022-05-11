@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 Welcome to my Github repository aka my personalised learning hub! Here you will find various repositories pertaining to Data Analytics,Data Vizualisation, Machine learning problems and attempts to understand these problems through simple learning exercises using publically available datasets.
 
 ## Tech Stack
+[![StackShare](https://github.com/benjaminweymouth/benjaminweymouth/blob/main/Images/BenStackShare.png)](https://embed.stackshare.io/stacks/embed/c2250d802818822cee04253668508b)
 
-
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/elnajkattoor/my-stack)
