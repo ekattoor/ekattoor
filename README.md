@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 
 Welcome to my Github repository aka my personalised learning hub! Here you will find various repositories pertaining to Data Analytics,Data Vizualisation, Machine learning problems and attempts to understand these problems through simple learning exercises using publically available datasets.
+- 🌱 I’m currently learning ...
+Python
+SQL
+Tableau
+- 🔭 I’m currently working on ...
 
 ## Tech Stack
 
