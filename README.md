@@ -21,8 +21,10 @@ Welcome to my Github repository aka my personalised learning hub! Here you will 
 🌱 I’m currently learning ...
 * Python
 * SQL
-* Tableau
+* Tableau  
+
 🔭 I’m currently working on ...
+*
 
 ## Tech Stack
 
