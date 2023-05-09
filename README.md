@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Elna's Portfolio. 
 
-Welcome to my Github repository aka my personalised learning hub! Here you will find various repositories pertaining to Data Analytics,Data Vizualisation, Machine learning problems and attempts to understand these problems through simple learning exercises using publically available datasets.  
+Welcome to my Github repository aka my personalised learning hub! Here you will find various repositories pertaining to Data Analytics,Data Vizualisation, Machine learning problems and my attempts to understand these problems through simple learning exercises using publically available datasets.  
 
 
 🌱 I’m currently learning ...
@@ -26,6 +27,7 @@ Welcome to my Github repository aka my personalised learning hub! Here you will 
 🔭 I’m currently working on small Machine Learning projects to improve my skills...
 * [Time Series Analysis with ARMA and ARIMA](https://github.com/ekattoor/ARIMA-Time-Series-Analysis)
 * [Supervised Learning with Logistic Regression and SVM](https://github.com/ekattoor/Cyclist-Accidents-in-Toronto)
+* [Time series with LSTM](https://github.com/ekattoor/TimeSeries_and_LSTM)
 
 ## Tech Stack
 
