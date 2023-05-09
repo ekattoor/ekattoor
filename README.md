@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **ekattoor/ekattoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Elna's Portfolio. 
+### Hi there 👋. 
+
 
 Welcome to my Github repository aka my personalised learning hub! Here you will find various repositories pertaining to Data Analytics,Data Vizualisation, Machine learning problems and my attempts to understand these problems through simple learning exercises using publically available datasets.  
 
