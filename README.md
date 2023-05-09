@@ -23,8 +23,9 @@ Welcome to my Github repository aka my personalised learning hub! Here you will 
 * SQL
 * Tableau  
 
-🔭 I’m currently working on ...
-*
+🔭 I’m currently working on small Machine Learning projects to improve my skills...
+* [Time Series Analysis with ARMA and ARIMA](https://github.com/ekattoor/ARIMA-Time-Series-Analysis)
+* [Supervised Learning with Logistic Regression and SVM](https://github.com/ekattoor/Cyclist-Accidents-in-Toronto)
 
 ## Tech Stack
 
