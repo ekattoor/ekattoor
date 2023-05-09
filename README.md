@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my Github repository aka my personalised learning hub! Here you will find various repositories pertaining to Data Analytics,Data Vizualisation, Machine learning problems and attempts to understand these problems through simple learning exercises using publically available datasets./n
+Welcome to my Github repository aka my personalised learning hub! Here you will find various repositories pertaining to Data Analytics,Data Vizualisation, Machine learning problems and attempts to understand these problems through simple learning exercises using publically available datasets.  
+
+
 🌱 I’m currently learning ...
-Python
-SQL
-Tableau
+* Python
+* SQL
+* Tableau
 🔭 I’m currently working on ...
 
 ## Tech Stack
