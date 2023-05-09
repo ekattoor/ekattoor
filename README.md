@@ -29,7 +29,7 @@ Welcome to my Github repository aka my personalised learning hub! Here you will 
 🔭 I’m currently working on small Machine Learning projects to improve my skills...
 * [Time Series Analysis with ARMA and ARIMA](https://github.com/ekattoor/ARIMA-Time-Series-Analysis)
 * [Supervised Learning with Logistic Regression and SVM](https://github.com/ekattoor/Cyclist-Accidents-in-Toronto)
-* [Time series with LSTM](https://github.com/ekattoor/TimeSeries_and_LSTM)
+* [Time series analysis with neural newtworks : Long Short Term Model (LSTM)](https://github.com/ekattoor/TimeSeries_and_LSTM)
 
 ## Tech Stack
 
